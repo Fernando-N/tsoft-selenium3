@@ -1,5 +1,3 @@
-<img src".github/logo_tsoft.png" width="180px" align="center" />
-
 # Proyecto curso selenium avanzado - Tsoft
 ### Consideraciones
 - Debes dejar el **chromedriver.exe** dentro de la carpeta **drivers** de la carpeta root
