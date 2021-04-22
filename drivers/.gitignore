@@ -1,0 +1,3 @@
+#.gitignore para ignorar todo excepto este .gitignore, de esta forma se ignoran los drivers en los commits.
+*
+!.gitignore
